@@ -1,0 +1,30 @@
+{
+	"letters": [
+			{"letter": "97", "value": "0.08167"},
+			{"letter": "98", "value": "0.01492"},
+			{"letter": "99", "value": "0.02782"},
+			{"letter": "100", "value": "0.04253"},
+			{"letter": "101", "value": "0.1270"},
+			{"letter": "102", "value": "0.02228"},
+			{"letter": "103", "value": "0.02015"},
+			{"letter": "104", "value": "0.06094"},
+			{"letter": "105", "value": "0.06966"},
+			{"letter": "106", "value": "0.00153"},
+			{"letter": "107", "value": "0.00772"},
+			{"letter": "108", "value": "0.04025"},
+			{"letter": "109", "value": "0.02406"},
+			{"letter": "110", "value": "0.06749"},
+			{"letter": "111", "value": "0.07507"},
+			{"letter": "112", "value": "0.01929"},
+			{"letter": "113", "value": "0.0095"},
+			{"letter": "114", "value": "0.05987"},
+			{"letter": "115", "value": "0.06327"},
+			{"letter": "116", "value": "0.09056"},
+			{"letter": "117", "value": "0.02758"},
+			{"letter": "118", "value": "0.00978"},
+			{"letter": "119", "value": "0.02360"},
+			{"letter": "120", "value": "0.00150"},
+			{"letter": "121", "value": "0.01974"},
+			{"letter": "122", "value": "0.00074 "}
+    	]
+}
